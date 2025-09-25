@@ -1,6 +1,4 @@
 # ADBD-prct02
-## Diagrama
-![[Pasted image Diagrama sin título.jpg]]
 ## Descripción
 ### Farmacia
 La entidad farmacia es de la que dependen todas las demás entidades, puede fabricar medicamentos, comprárselos a los laboratorios o reservar ventas de estos a clientes afiliados
